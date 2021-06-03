@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Triumphs of female wit, in some pindarick odes, or, The emulation together with an answer to an objector against female ingenuity, and capacity of learning : also, a preface to the masculine sex / by a young lady.</title>
+            <author>Young lady.</author>
+         </titleStmt>
+         <extent>Approx. 25KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B30886</idno><idno type="EEBO-CITATION">11952497</idno>
+  <idno type="VID">51467</idno>
+  <idno type="EEBO-PROQUEST">2248528276</idno>
+  
+            <idno type="STC">Wing T2295</idno>
+            <idno type="STC">ESTC R3634</idno>
+            <idno type="OCLC">11952497</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B30886)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51467)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 519:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Triumphs of female wit, in some pindarick odes, or, The emulation together with an answer to an objector against female ingenuity, and capacity of learning : also, a preface to the masculine sex / by a young lady.</title>
+                  <author>Young lady.</author>
+                  <author>H., Mr.</author>
+                  <author>F., Mr.</author>
+               </titleStmt>
+               <extent>[8], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Malthus ..., and J. Waltho ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First edition.</note>
+                  <note>Reproduction of original in University of Pennsylavania Library.</note>
+                  <note>Emulation /  written by a Young Lady -- Answer to the emulation / written by Mr. H. -- Reply to the answerer of the emulation / written by Mr. F.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Women --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:51467:1"/>
+            <pb facs="tcp:51467:1"/>
+            <p>TRIUMPHS OF FEMALE WIT, In Some <hi>Pindarick Odes.</hi> OR, THE EMULATION. TOGETHER With an Answer to an OBJECTOR against <hi>Female</hi> Ingenuity, and Capacity of Learning. ALSO, A Preface to the <hi>Masculine Sex,</hi> by a Young Lady.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>T. Malthus</hi> at the <hi>Sun</hi> in the <hi>Poultry,</hi> and <hi>J. Wal<g ref="char:EOLhyphen"/>tho,</hi> at the <hi>Black Lyon</hi> in <hi>Chancery-Lane,</hi> against <hi>Lincolns-Inn.</hi> MDCLXXXIII.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:51467:2"/>
+            <pb facs="tcp:51467:2"/>
+            <head>THE PREFACE TO THE <hi>Masculine Sex.</hi>
+            </head>
+            <p>WEll Gentlemen, your Censures I know are ready, and you as willing to be<g ref="char:EOLhyphen"/>stow 'em too on a Young Lady, when ill Na<g ref="char:EOLhyphen"/>ture (as you call it) hinders her Compliance with the foppish Importunities of your Desires, or grows cross-grain'd, and w'ont submit to the usual Slavery of her Sex. Indeed I expect to find my Appearance in the behalf of injur'd Fe<g ref="char:EOLhyphen"/>males, condemned not only as immodest and un<g ref="char:EOLhyphen"/>fashionable, but as unnatural and unreasonable also; it being the common experienc'd Policy of Ʋsurpers in Wit or Government, to overthrow the Justness of a Claimer's Title with Aspersi<g ref="char:EOLhyphen"/>ons of Incapacity or Weakness. But as for our
+<pb facs="tcp:51467:3"/>Fate, so far as it can be influenced either by your Brains or Tongues, I think we need not much value it, be the Severity thereof never so great or so keenly urg'd: for, Ingenuity of Re<g ref="char:EOLhyphen"/>venge, and the witty Management of a Passion, was always look'd on as a Talent peculiar to our Sex alone; a Female-Province, in which we were ever allow'd to be absolute. And I am of Opinion, that there are very few of you <hi>Sparks,</hi> who have been so happy as to be inga<g ref="char:EOLhyphen"/>ged in innocent Intrigues with us <hi>Ladies,</hi> but must confess that we have briskness of Parts sufficient to baffle the ablest of you; nay, and to your own Sorrow too, many times have ex<g ref="char:EOLhyphen"/>perimented the Acuteness of our Senses in re<g ref="char:EOLhyphen"/>senting, and our Wit and Resolution in reven<g ref="char:EOLhyphen"/>ging Injuries. I fancy, had Mother <hi>Eve</hi> but foreseen this unjust Oppression of her Daughters, she would scarce have been so prodigal of the Happiness and Ease of her Sex, or so free in Complaisance to her Husband, to engage in so
+<pb facs="tcp:51467:3"/>mean and difficult a Duty; but would rather have condemned him to the Drudgeries of Life, whilst her easie Task should be the delightful Study of Natural Curiosity; with its Variety of Productions, to make Remarks on the Labour of toiling Men, and to be Judge of their Per<g ref="char:EOLhyphen"/>formances. Thus far did Womans Complaisan<g ref="char:EOLhyphen"/>cy become her Crime and her Disadvantage; who instead of an easie pleasurable Life, is now confined to labour all the Day in the Kitchin Mines of a Family, and at Night to the un<g ref="char:EOLhyphen"/>gratifying Divertisement of an unperforming Husband. Well, after all, I see if ever we hope to have these Grievances redress'd, we must e'en appeal to Dame <hi>Nature,</hi> to know what she at first design'd us for, and whether the Ex<g ref="char:EOLhyphen"/>cellency of a Female Soul could possibly be raised no higher than the management of a Needle or the ingenuity of a Pudding. Why we should not be thought capable of all the Endowments of humane Nature, I cannot apprehend: I am
+<pb facs="tcp:51467:4"/>sure we seem fram'd with as much skill and ex<g ref="char:EOLhyphen"/>actness, with the same Materials too both of Body and Mind as the best composed of you all; with this only difference, That the yielding Fe<g ref="char:EOLhyphen"/>male Lump was with more ease wrought into Perfection, and the curious Line of natural Beau<g ref="char:EOLhyphen"/>ty and Ingenuity; when Man's more rugged knot<g ref="char:EOLhyphen"/>ty Matter could not be carv'd into Excellency without Flaws and Imperfections: And do not your Addresses and Amours daily confess us to be the chiefest Instruments of conveying your Bles<g ref="char:EOLhyphen"/>sings; Nature having made us the Stewards of all those Delights and Pleasures which Men enjoy or wish for, and intrusted our Discretion with their Disposal. Why then should not <hi>Ladies</hi> set up for Wits, in whom it is so natural to please; for Wit is nothing else but an agreeable Relish of an Object on the Apprehension: besides, the Fa<g ref="char:EOLhyphen"/>culties of our Souls are always brisk and sprightful, our Senses quick and intelligent; and then for the Organs of our Senses, the Instruments of Action,
+<pb facs="tcp:51467:4"/>they are always in tune, ever ready for Exercise and Engagement. Nay, so far are we from the unpardonable Crime of Dulness, (a Vertue proper only to you Men) that at pleasure we (when the occasion proves inviting) can raise our obliged Senses into the pleasing Extravagancy of Rapture or diverting Wit or Passion: and then again, with as much facility and ease, can command them back unto the sober Rules of solid Wis<g ref="char:EOLhyphen"/>dom. We scorn to flag, like you Sparks, in the midst of an half enjoy'd pleasure, for want of Life to relish, and Vigour to finish the innocent Enjoyment. Thus far Nature furnishes us with Ability. And were but the Liberty of an Artificial Improvement, and the great Advantages of a sui<g ref="char:EOLhyphen"/>table Education added to the Strength of our Parts and our natural Capacity, on my Consci<g ref="char:EOLhyphen"/>ence we should out-do you in the trade of Inge<g ref="char:EOLhyphen"/>nuity, and soon get a stock of acquired Excellency wherewith to set up for accomplish'd Professors of Arts and Sciences: and I dare say that there are none of all you Sparks but would be glad to
+<pb facs="tcp:51467:5"/>be dealing with us for Wit and Pleasure. Don't you see, whenever Generosity and Bravery of Mind (disdaining to be fetter'd to the mean Em<g ref="char:EOLhyphen"/>ployments of her Sex) drives the noble Females Soul from the slavery of an entailed Ignorance un<g ref="char:EOLhyphen"/>to the freedom and more agreeable pursuit of Learning and Wisdom, how soon and with what ease she becomes the deserved envy of Mankind, the Emulation of the Ingenious, and the Glory of her Sex for a rare Ingenuity. And let me tell you, Gentlemen, since we are thus happily become acquainted with our Strength, we shall often make bold to let our Wit sally out upon You the Ene<g ref="char:EOLhyphen"/>mies of our growing Reputation, and the unjust Invaders of our native Rights; not doubting but to return with the grateful Spoils of a just Ap<g ref="char:EOLhyphen"/>plause, and to signalize the prevailing power of our Charms in the Triumphs of our Wit as well as Beauty: the last of which was ever allow'd to be irresistable, and by the first you shall see that our methods of conquering are not always the same, but that we can captivate defenceless Men which way we please.</p>
+         </div>
+      </front>
+      <body>
+         <div type="ode">
+            <pb n="1" facs="tcp:51467:5"/>
+            <head>THE EMULATION. A <hi>Pindarick Ode.</hi>
+            </head>
+            <lg>
+               <head>I.</head>
+               <l>AH! tell me why, deluded Sex, thus we</l>
+               <l>Into the secret Beauty must not prye</l>
+               <l>Of our great <hi>Athenian</hi> Deity.</l>
+               <l>Why do we <hi>Minerva</hi>'s Blessings slight,</l>
+               <l>And all her tuneful gifts despise;</l>
+               <l>Shall none but the insulting Sex be wise?</l>
+               <l>Shall they be blest with intellectual Light,</l>
+               <l>Whilst we drudge on in Ignorances Night?</l>
+               <l>We've Souls as noble, and as fine a Clay,</l>
+               <l>And Parts as well compos'd to please as they.</l>
+               <l>Men think perhaps we best obey,</l>
+               <pb n="2" facs="tcp:51467:6"/>
+               <l>And best their servile Business do,</l>
+               <l>When nothing else we know</l>
+               <l>But what concerns a Kitch in or a Field,</l>
+               <l>With all the meaner things they yield.</l>
+               <l>As if a rational unbounded Mind</l>
+               <l>Were only for the sordid'st task of Life design'd.</l>
+            </lg>
+            <lg>
+               <head>II.</head>
+               <l>They let us learn to work, to dance, or sing,</l>
+               <l>Or any such like trivial thing,</l>
+               <l>Which to their profit may Increase or Pleasure bring.</l>
+               <l>But they refuse to let us know</l>
+               <l>What sacred Sciences doth impart</l>
+               <l>Or the mysteriousness of Art.</l>
+               <l>In Learning's pleasing Paths deny'd to go,</l>
+               <l>From Knowledge banish'd, and their Schools;</l>
+               <l>We seem design'd alone for useful Fools,</l>
+               <l>And foils for their ill shapen sense, condemn'd to prise</l>
+               <l>And think 'em truly wise,</l>
+               <l>Being not allow'd their Follies to despise.</l>
+               <l>Thus we from Ignorance to Wonder run.</l>
+               <l>(For Admiration ceases when the Secret's known)</l>
+               <l>Seem witty only in their praise</l>
+               <l>And kind congratulating Lays.</l>
+               <pb n="3" facs="tcp:51467:6"/>
+               <l>Thus to the Repute of Sense they rise,</l>
+               <l>And thus through the applauder's Ignorance are wise.</l>
+               <l>For should we understand as much as they,</l>
+               <l>They fear their Empire might decay.</l>
+               <l>For they know Women heretofore</l>
+               <l>Gain'd Victories, and envied Lawrels wore:</l>
+               <l>And now they fear we'll once again</l>
+               <l>Ambitious be to reign</l>
+               <l>And to invade the Dominions of the Brain.</l>
+               <l>And as we did in those renowned days</l>
+               <l>Rob them of Lawrels, so we now will take their Bayes.</l>
+            </lg>
+            <lg>
+               <head>III.</head>
+               <l>But we are peaceful and will not repine,</l>
+               <l>They still may keep their Bays as well as Wine.</l>
+               <l>We've now no <hi>Amazonian</hi> Hearts,</l>
+               <l>They need not therefore guard their <hi>Magazine</hi> of <hi>Arts.</hi>
+               </l>
+               <l>We will not on their treasure seise,</l>
+               <l>A part of it sufficiently will please:</l>
+               <l>We'll only so much Knowledge have</l>
+               <l>As may assist us to enslave</l>
+               <l>Those Passions which we find</l>
+               <l>Too potent for the Mind.</l>
+               <l>'Tis o're them only we desire to reign,</l>
+               <l>And we no nobler, braver, Conquest wish to gain.</l>
+            </lg>
+            <pb n="4" facs="tcp:51467:7"/>
+            <lg>
+               <head>IV.</head>
+               <l>We only so much will desire</l>
+               <l>As may instruct us how to live above</l>
+               <l>Those childish things which most admire,</l>
+               <l>And may instruct us what is fit to love.</l>
+               <l>We covet Learning for this only end,</l>
+               <l>That we our time may to the best advantage spend:</l>
+               <l>Supposing 'tis below us to converse</l>
+               <l>Always about our Business or our Dress;</l>
+               <l>As if to serve our Senses were our Happiness.</l>
+               <l>We'll read the Stories of the ancient Times,</l>
+               <l>To see, and then with horror hate their Crimes.</l>
+               <l>But all their Vertues with delight we'll view,</l>
+               <l>Admir'd by Us, and imitated too.</l>
+               <l>But for rewarding Sciences and Arts,</l>
+               <l>And all the curious Products which arise</l>
+               <l>From the contrivance of the Wise,</l>
+               <l>We'll tune and cultivate our fruitful Hearts,</l>
+               <l>And should Man's Envy still declare,</l>
+               <l>Our Business only to be fair;</l>
+               <l>Without their leave we will be wise,</l>
+               <l>And Beauty, which they value, we'll despise.</l>
+               <l>Our Minds, and not our Faces, we'll adorn,</l>
+               <l>For that's the Employ to which we are born.</l>
+               <pb n="5" facs="tcp:51467:7"/>
+               <l>The <hi>Muses</hi> gladly will their aid bestow,</l>
+               <l>And to their <hi>Sex</hi> their charming Secrets show.</l>
+               <l>Whilst Man's brisk Notions owe their rise</l>
+               <l>To an inspiring Bottle, Wench, or Vice,</l>
+               <l>Must be debauch'd and damn'd to get</l>
+               <l>The Reputation of a Wit.</l>
+               <l>To Nature only, and our softer Muses, we</l>
+               <l>Will owe our Charms of Wit, of Parts, and Poetry.</l>
+            </lg>
+            <closer>
+               <signed>
+                  <hi>Written by a</hi> Young Lady.</signed>
+            </closer>
+         </div>
+         <div type="ode">
+            <pb n="6" facs="tcp:51467:8"/>
+            <head>THE ANSWER TO THE EMULATION. A Pindarick Ode.</head>
+            <lg>
+               <head>I.</head>
+               <l>WHat daring <hi>Female</hi> is't who thus complains,</l>
+               <l>In <hi>Masculine</hi> Pindarick Strains,</l>
+               <l>Of great <hi>Apollo</hi>'s <hi>Salique</hi> Law;</l>
+               <l>Both breaks it, and pretends that she</l>
+               <l>Pleads only for her Native Liberty.</l>
+               <l>Whilst in a rapid over-flowing tide</l>
+               <l>Of Wit and Fancy, which no Banks are able to abide,</l>
+               <l>She strikes the Guards of <hi>Helicon</hi>
+               </l>
+               <l>With a surprizing awe,</l>
+               <l>And <hi>Amazonian</hi>-like, compels 'em to withdraw.</l>
+            </lg>
+            <pb n="7" facs="tcp:51467:8"/>
+            <lg>
+               <head>II.</head>
+               <l>Stand valiant she, a Parley I desire;</l>
+               <l>Whence had you this Poetick Fire?</l>
+               <l>I fear, <hi>Prometheus</hi>-like, y'have stole</l>
+               <l>A Spark design'd to form a manly Soul.</l>
+               <l>Forbear, bold Nymph, thus to aspire,</l>
+               <l>You needs must know, ingenious Dame,</l>
+               <l>'Twas from <hi>Jove's</hi> Brain alone <hi>Minerva</hi> came.</l>
+               <l>Nature indeed hath made your Sex of use</l>
+               <l>Unknowing Infants to produce.</l>
+               <l>But sure she ne're designed it</l>
+               <l>To make your Brains prolifick, or your Wit.</l>
+            </lg>
+            <lg>
+               <head>III.</head>
+               <l>Which of the Arts,</l>
+               <l>Except that one of captivating Hearts,</l>
+               <l>Doth the World owe to Woman kind?</l>
+               <l>And 'tis not to monopolise</l>
+               <l>The Law allows it to the wise,</l>
+               <l>That he who proves so happy as to find</l>
+               <l>Some undiscovered useful Skill</l>
+               <l>Should use it at his will.</l>
+               <pb n="8" facs="tcp:51467:9"/>
+               <l>And the sole profit be to him confin'd.</l>
+               <l>At least until</l>
+               <l>Some tolerable gains</l>
+               <l>Have recompenc'd his cost and pains.</l>
+               <l>But when, alas! will Arts repay</l>
+               <l>The time, health, cost, and pains upon them thrown away?</l>
+            </lg>
+            <lg>
+               <head>IV.</head>
+               <l>'Tis not that Men infult or would enslave</l>
+               <l>Your Sex, that they engross <hi>Apollo</hi>'s mines;</l>
+               <l>Methinks you should more pity have</l>
+               <l>For those whom you have rob'd of all their Store,</l>
+               <l>Than thus to envy them their toil and pains,</l>
+               <l>To gain some part of what they had before.</l>
+               <l>No, let 'em digg and delve, vvhat need you care,</l>
+               <l>'Tis too hard labour for the fair.</l>
+               <l>And when the dross is purg'd and gone,</l>
+               <l>'Tis not for our selves alone</l>
+               <l>That we such tedious labour take,</l>
+               <l>Next to our selves, 'tis for your sake.</l>
+               <l>To your fair Sex we willingly commit</l>
+               <l>Our Golden VVisdom and our Silver Wit.</l>
+            </lg>
+            <pb n="9" facs="tcp:51467:9"/>
+            <lg>
+               <head>V.</head>
+               <l>Nature hath made your Sex with curious Art,</l>
+               <l>Your Souls too are ingenious and bright,</l>
+               <l>Both full of Beauty as the Sons of light.</l>
+               <l>And Woman is the Rib that lies most near the Heart.</l>
+               <l>Therefore I must advise the witty She</l>
+               <l>Not to indulge this longing still,</l>
+               <l>Lest you miscarry when you see</l>
+               <l>Your power not equal to your will.</l>
+               <l>Alas! forbidden Fruit you know</l>
+               <l>Did on the Tree of Knowledge grow,</l>
+               <l>And when hardy thick scull'd Man</l>
+               <l>Spends and cracks his studious Brain,</l>
+               <l>And instead of gaining more</l>
+               <l>Loses what he had before;</l>
+               <l>So those whom Emulation sets at strife</l>
+               <l>To gain the <hi>Tree of Knowledge</hi> often lose <hi>the Tree of Life.</hi>
+               </l>
+            </lg>
+            <pb n="10" facs="tcp:51467:10"/>
+            <lg>
+               <head>VI.</head>
+               <l>That muddy Stream of <hi>Time.</hi>
+               </l>
+               <l>In which your Sex, that prison of your Souls,</l>
+               <l>Your rational unbounded Mind controuls,</l>
+               <l>Swiftly into the eternal Ocean rouls:</l>
+               <l>And then</l>
+               <l>You'll find no cause to envy Men.</l>
+               <l>It will not be who studied most,</l>
+               <l>N'one his Attainments then shall boast.</l>
+               <l>'Tis not a studious Life that brings</l>
+               <l>The necessary Knowledge of revealed things.</l>
+               <l>And all will then receive,</l>
+               <l>Not as they knew, but as they did believe.</l>
+               <l>Then trouble not your Quiet so,</l>
+               <l>Hard and unnecessary things to know:</l>
+               <l>Knowledge divine you may attain</l>
+               <l>Without the labour of the Brain.</l>
+               <l>Histories and moral Precepts too</l>
+               <l>Are not deny'd to you;</l>
+               <l>But for the Learning of the Schools,</l>
+               <l>That can't make Women wise, that makes Men Fools.</l>
+               <pb n="11" facs="tcp:51467:10"/>
+               <l>Philosophy's uncertain Light</l>
+               <l>Is but a wild Fire in the Night:</l>
+               <l>And all the rest we Wisdom call,</l>
+               <l>Is either little so, or not at all.</l>
+               <l>Each Limb of Learning hath the Gout</l>
+               <l>Of an incurable and painful Doubt.</l>
+               <l>And by the acute Disease</l>
+               <l>The richest Men are always least at ease.</l>
+            </lg>
+            <lg>
+               <head>VII.</head>
+               <l>But you have Passions to subdue;</l>
+               <l>More you would know, because you more would do;</l>
+               <l>You're sensible of Ignorances Night,</l>
+               <l>And fain would glut your Sight</l>
+               <l>With a full view of intellectual Light.</l>
+               <l>And may your Wish successful prove,</l>
+               <l>For Ladies should enjoy whate're they love.</l>
+               <l>May you walk safe in Learnings milky way,</l>
+               <l>Know all that Men and Angels say,</l>
+               <l>Expand your Souls to Truth as wide as day.</l>
+               <l>But when you're grown wise as well as fair,</l>
+               <l>Then, <hi>Lady,</hi> have a care.</l>
+               <pb n="12" facs="tcp:51467:11"/>
+               <l>Ambitious thoughts will rise,</l>
+               <l>And you will know that you are wise.</l>
+               <l>A Woman Fair, Wise, Learn'd, and Humble too,</l>
+               <l>Will be a <hi>Species</hi> alone,</l>
+               <l>A <hi>Phaenix</hi> true,</l>
+               <l>Talk'd of by all but seen by none.</l>
+            </lg>
+            <closer>
+               <signed>
+                  <hi>Written by</hi> Mr. H.</signed>
+            </closer>
+         </div>
+         <div type="ode">
+            <pb n="13" facs="tcp:51467:11"/>
+            <head>A REPLY TO THE ANSWERER OF THE EMULATION. A Pindarick Ode.</head>
+            <lg>
+               <head>I.</head>
+               <l>FRom whence, Usurping Man, thy boasted Claim,</l>
+               <l>To all the Riches of the Brain?</l>
+               <l>Did good <hi>Apollo</hi> e're deny</l>
+               <l>Charms to <hi>Orinda</hi>'s Poetry?</l>
+               <pb n="14" facs="tcp:51467:12"/>
+               <l>How then infring'd are sacred Laws of Wit,</l>
+               <l>Whilst our tuneful Passions move</l>
+               <l>In measures pre-ordain'd by <hi>Jove!</hi>
+               </l>
+               <l>And justly, only unambitious, we</l>
+               <l>Assert our Native Liberty.</l>
+               <l>With modest Bravery maintain our <hi>Female</hi> right</l>
+               <l>To that divine inspiring Spring</l>
+               <l>Which envious Man encloseth in;</l>
+               <l>Lest Draughts permitted to each Wishing she</l>
+               <l>Should turn to pleasing well digested Extasie.</l>
+            </lg>
+            <lg>
+               <head>II.</head>
+               <l>Mistrustful Man, thus nobly I comply,</l>
+               <l>To prove our native Ingenuity:</l>
+               <l>No wonder you thus Sense defend,</l>
+               <l>With watchful Cares on it attend:</l>
+               <l>Since all the Graces of the manly Soul</l>
+               <l>Were basely by <hi>Prometheus</hi> stole.</l>
+               <l>Whilst from willing <hi>Jove</hi>'s indulgent Brain</l>
+               <l>The graceful uncompell'd <hi>Minerva</hi> came.</l>
+               <l>Yet generous we do not refuse</l>
+               <l>The ungrateful Sex still to produce.</l>
+               <l>Our Pain and Labour gives you Life, and hence</l>
+               <l>Your dull and phlegmy Heads are fram'd for Sense.</l>
+            </lg>
+            <pb n="15" facs="tcp:51467:12"/>
+            <lg>
+               <head>III.</head>
+               <l>The most unboasted of our Arts</l>
+               <l>Is to triumph o're defenceless Hearts.</l>
+               <l>At Pleasure we enslave and kill,</l>
+               <l>For such mean Trophies of our Skill</l>
+               <l>Do never fail the motions of our Will.</l>
+               <l>For nobler Actions we design</l>
+               <l>To conquer Men in things sublime:</l>
+               <l>Each unintreaguing She hath Wit to rule,</l>
+               <l>And make the most exalted Man of Sense a Fool.</l>
+               <l>What outward Ornaments you get</l>
+               <l>Are still the Products of our VVit.</l>
+               <l>Not as unfit, in Prudence we forsake</l>
+               <l>The toilsome Guidance of the State,</l>
+               <l>To load our Slaves with that uneasie Fate.</l>
+               <l>Our choice Endowments kindly we employ,</l>
+               <l>More to teach Men Wisdom than enjoy.</l>
+               <l>And as for things you idlely cast away,</l>
+               <l>As you deserve so wisely we repay.</l>
+            </lg>
+            <pb n="16" facs="tcp:51467:13"/>
+            <lg>
+               <head>IV.</head>
+               <l>And should Men all <hi>Apollo</hi>'s treasure get,</l>
+               <l>'Twill ne're prevail to conquer us:</l>
+               <l>The least Degree of <hi>Female</hi> Wit</l>
+               <l>Defends us from that hated Curse.</l>
+               <l>Indeed we pity much your toil,</l>
+               <l>That Weeds should still o'respread your Soil.</l>
+               <l>But Labour well doth manly Souls befit,</l>
+               <l>For their tough Notions must be thrash'd for Wit;</l>
+               <l>For us whilst Nature doth devise</l>
+               <l>Less painful methods to be wise:</l>
+               <l>But after all your Cost and Pain,</l>
+               <l>So worthless is what e're you gain;</l>
+               <l>That it's beneath our Love and Care</l>
+               <l>Too mean Concernment for the fair.</l>
+            </lg>
+            <lg>
+               <head>V.</head>
+               <l>Kind Nature's Bounty, Sir, confess,</l>
+               <l>Our Wit than Beauty more express.</l>
+               <l>Whatever Graces in us shine</l>
+               <l>Derive their lustre from the Mind.</l>
+               <pb n="17" facs="tcp:51467:13"/>
+               <l>That little All that needy Man could spare</l>
+               <l>To make up Woman most compleat and fair,</l>
+               <l>Was but a Rib, that crooked too,</l>
+               <l>Which Nature, forc'd, was to undoe,</l>
+               <l>To make it strait, and able to receive</l>
+               <l>That tuneful high-born Soul she gave.</l>
+               <l>How then can we unjustly aim</l>
+               <l>At things beyond our native Claim:</l>
+               <l>Or how to high aspire</l>
+               <l>Such sacred bright celestial Fire?</l>
+               <l>These lawful Longings we will ne're suppress,</l>
+               <l>Or fear Miscarriage till we make 'em less:</l>
+               <l>Whilst rash ungovern'd Men their Bliss destroy,</l>
+               <l>Not knowing how to wish or to enjoy.</l>
+               <l>We'll so direct, with prudent Care, our Flight,</l>
+               <l>T'enjoy at once the <hi>Tree of Knowledge</hi> and <hi>of Life.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>VI.</head>
+               <l>Down the muddy Stream of <hi>Time</hi>
+               </l>
+               <l>(In which we all so fast decline)</l>
+               <l>Vice hurries Man with a reboubled Pace,</l>
+               <l>And taints his Soul with Dullness or Disgrace.</l>
+               <l>Whilst Temperance supplies what time decays,</l>
+               <l>And Virtue crowns us with the Bays.</l>
+               <l>No dull or phleg my Humours e're controul</l>
+               <l>The Native Briskness of the Soul,</l>
+               <pb n="18" facs="tcp:51467:14"/>
+               <l>Still active we through subtle Nature drive,</l>
+               <l>And gather Sweets to deck our lasting Hive.</l>
+               <l>But when</l>
+               <l>Unresisting Mortals come</l>
+               <l>To pay the improvement of their Beings down;</l>
+               <l>There'll be no cause to envy Men:</l>
+               <l>For then their Pride and vain Conceit</l>
+               <l>Of Parts and Learning must abate:</l>
+               <l>That Wit and Wisdom which they boast,</l>
+               <l>As not substantial, must be lost.</l>
+               <l>'Tis <hi>Female</hi> Souls shall then appear</l>
+               <l>The most unsullied, bright, and clear;</l>
+               <l>Adorn'd with all their stock of Virtue gather'd here.</l>
+               <l>By these safe methods 'tis we move</l>
+               <l>From Glories here to greater ones above.</l>
+               <l>To the search of Knowledge all are bound,</l>
+               <l>For <hi>Truth</hi> 'tis fits us to be crown'd.</l>
+               <l>But when rash Man lets fly</l>
+               <l>His ill fletc'd thoughts at swifter mystery;</l>
+               <l>No wonder if he find</l>
+               <l>At length his Reason lost or blind;</l>
+               <l>For fatal Disappointment always springs</l>
+               <l>From the needless search of unrevealed things:</l>
+               <l>We only let our Reason go</l>
+               <l>At things convenient fit to know:</l>
+               <l>We act just as the Gods enjoyn,</l>
+               <l>And on permitted Objects fix our aim:</l>
+               <pb n="19" facs="tcp:51467:14"/>
+               <l>Whilst bold ungovern'd Men do doubly err,</l>
+               <l>Both in the Object, and the way they steer.</l>
+               <l>Such the Learning of the Schools,</l>
+               <l>Error gilt and dress'd by Rules,</l>
+               <l>Contriv'd to gloss and set off Fools.</l>
+               <l>Such cheating Knowledge we despise,</l>
+               <l>Had rather still be ignorantly wise.</l>
+               <l>True Wisdom and Philosophy</l>
+               <l>Mount our Souls on high,</l>
+               <l>And never lead our steady thoughts awry:</l>
+               <l>For solid Reason still unerring goes</l>
+               <l>Thro' Nature's mighty heap of Causes, shows</l>
+               <l>How this from that, and whence they all arose.</l>
+               <l>VVe go by no uncertain Light,</l>
+               <l>Our Reason keeps us always right.</l>
+               <l>Those Doubtings which we find</l>
+               <l>Oppress the motions of the manly Mind,</l>
+               <l>From Inadvertency arise,</l>
+               <l>Or want of Parts and Power to be wise.</l>
+            </lg>
+            <lg>
+               <head>VII.</head>
+               <l>Our Senses ne're unruly grow,</l>
+               <l>We only act what Reason prompts us to;</l>
+               <l>And we that Knowledge only choose.</l>
+               <l>Whose free permitted Use</l>
+               <pb n="20" facs="tcp:51467:15"/>
+               <l>Adds new Perfection to the mind,</l>
+               <l>Which us to Virtue and our Maker closely bind.</l>
+               <l>No meaner Objects keep</l>
+               <l>A just Proportion with our well-set appetite.</l>
+               <l>All that's just, that's great, or good,</l>
+               <l>By Women's rightly understood.</l>
+               <l>To trim our Souls we this employ,</l>
+               <l>And them to brighter Glories thus convey.</l>
+               <l>With such becoming modesty we rise</l>
+               <l>To all the Graces of the wise.</l>
+               <l>No Pride our Wisdom e're shall spoil,</l>
+               <l>Or fond Conceit our Wit defile.</l>
+               <l>Know Sir, that VVomen, witty, wise, and fair,</l>
+               <l>Than worthy Men more plenty are:</l>
+               <l>For we not only Men excell</l>
+               <l>In choicer Gifts, but Wit to use 'em well.</l>
+            </lg>
+            <closer>
+               <signed>
+                  <hi>Written by</hi> Mr. F.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:51467:15"/>
+         </div>
+      </body>
+   </text>
+</TEI>
